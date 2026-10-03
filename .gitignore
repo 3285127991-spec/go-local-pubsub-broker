@@ -1,0 +1,14 @@
+# IDE
+.vscode/
+.idea/
+
+# Build/cache
+bin/
+.cache/
+.gocache/
+
+# Test/demo artifacts
+tmp/
+demo-data/
+*.tmp
+*.log
